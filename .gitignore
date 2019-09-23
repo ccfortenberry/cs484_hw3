@@ -73,5 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# attempt at large file fix
-WindowsNoEditor/*
+# Exclude the game executable
+ShopGame/*
